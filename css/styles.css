@@ -10957,6 +10957,10 @@ section.resume-section .resume-section-content {
   width: 100%;
 }
 
+.resume-section-content .projet{
+  max-width: 70rem;
+}
+
 @media (min-width: 768px) {
   section.resume-section {
     min-height: 100vh;
