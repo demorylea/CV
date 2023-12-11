@@ -10959,6 +10959,9 @@ section.resume-section .resume-section-content {
 
 .resume-section-content .projet{
   max-width: 70rem;
+  max-height: 40rem;
+  display: block;
+  margin: auto;
 }
 
 @media (min-width: 768px) {
