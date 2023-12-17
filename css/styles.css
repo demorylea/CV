@@ -10978,3 +10978,8 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+.resume-section-content .experience{
+  max-width: 7rem;
+  max-height: 4rem;
+}
